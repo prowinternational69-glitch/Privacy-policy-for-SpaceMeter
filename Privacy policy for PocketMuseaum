@@ -1,0 +1,28 @@
+PRIVACY POLICY
+Effective Date: November 25, 2026
+App Name: PocketMuseum (com.pocketmuseaumapp.app)
+1. Introduction
+PocketMuseum ("we," "our," or "us") respects your privacy. This Privacy Policy explains how your information is handled when you use our mobile application (PocketMuseum).
+2. Information Collection and Storage
+•
+Local Data Storage: PocketMuseum is designed with a privacy-first, offline architecture. All collections, exhibition halls, artifacts, notes, and titles created by you are stored exclusively on your local device using secure local JSON storage (context.filesDir).
+•
+No Cloud Transmission: We do not operate servers or cloud databases. Your curated data never leaves your device and is never transmitted to us or any third party.
+3. Permissions and Device Access
+•
+Zero Permissions: PocketMuseum requires no special device permissions to function.
+•
+No Personal Data Access: We do not request, access, or collect your device camera, photo gallery, location, contacts, microphone, storage files, or device identifiers.
+4. Third-Party Services and Analytics
+•
+No Analytics or Tracking: We do not utilize any analytics software, crash reporting SDKs, telemetry tools, or tracking pixels.
+•
+No Advertising: PocketMuseum contains no advertisements, sponsored content, or commercial third-party SDKs.
+5. Children’s Privacy
+PocketMuseum does not knowingly collect any personal information from children under the age of 13. Because the application operates entirely offline and collects zero data, it is safe for users of all ages.
+6. Data Security
+Since all data resides locally on your device, your information is protected by your device's built-in operating system security (such as device lock screens and sandboxed app storage). Uninstalling the application will permanently remove all local museum data from your device.
+7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Any changes will be posted within this document with a revised effective date.
+8. Contact Us
+If you have any questions or suggestions about our Privacy Policy, please contact us directly via the app support channels.
